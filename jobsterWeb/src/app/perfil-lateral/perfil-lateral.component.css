@@ -1,0 +1,12 @@
+.list-group-item {
+    background-color: #F69A37;
+    color: white;
+    font-weight: bold;
+}
+
+.fa-link {
+    position: initial;
+    height: 12px;
+    width: 12px;
+}
+
